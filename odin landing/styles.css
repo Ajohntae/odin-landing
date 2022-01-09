@@ -1,0 +1,27 @@
+
+
+.p1 { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+}
+
+
+
+body {
+    color: black;
+    position: absolute;
+    left: auto;
+    right: auto;
+
+    margin: auto;
+    padding: 0%;
+    
+    background: 0%;
+
+}
+
+h1 {
+    color: white;
+}
+
+p {
+    color: white;
+}
